@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    text-transform: none !important;
+    font-family: 'Square' !important;
+}
+
+@font-face {
+    font-family: 'Square';
+    src: url('./assets/fonts/EuclidSquare-Medium.woff') format('opentype');
+}
