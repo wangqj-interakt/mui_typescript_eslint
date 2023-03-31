@@ -1,6 +1,6 @@
 
 
-# React, TypeScript, and MUI boilerplate
+# React, TypeScript, and MUI boilerplate ( as well Dark Mode )
 
 ## Introduction
 
