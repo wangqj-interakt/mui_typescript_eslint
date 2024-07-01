@@ -52,6 +52,7 @@ Contributions are more than welcome to our repository, developers. The goal is t
 ## Author
 
 - [Dan Castro](https://github.com/danilocastronz)
+- [Typescript] (https://github.com/typescript-eslint/typescript-eslint)
 
 ## Follow Us
 
